@@ -1,0 +1,12 @@
+.TodoCounter {
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+    color: rgba(239, 72, 30, 0.914);
+    box-shadow: 0px 5px 25px rgba(97, 218, 250, 0.5);
+}
+
+.TodoCounter--loading {
+    opacity: 25%;
+}
